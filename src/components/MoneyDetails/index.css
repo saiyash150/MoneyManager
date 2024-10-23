@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.list {
+  justify-content: center;
+}
+.text-content {
+  padding: 10px;
+  margin-left: 10px;
+  font-family: roboto;
+}
+.list-b {
+  display: flex;
+  align-items: center;
+  width: 350px;
+  background-color: #ecfccb;
+  border: solid #84cc16;
+  border-radius: 20px;
+  justify-content: center;
+}
+.logo {
+  height: 70px;
+}
+.list-i {
+  display: flex;
+  align-items: center;
+  background-color: #cffafe;
+  border: solid #06b6d4;
+  border-radius: 20px;
+  width: 350px;
+  justify-content: center;
+}
+.list-e {
+  display: flex;
+  align-items: center;
+  background-color: #ede9fe;
+  border: solid #7c3aed;
+  border-radius: 20px;
+  width: 350px;
+  justify-content: center;
+}
+.desp {
+  color: #475569;
+}
+.money {
+  color: #334155;
+  font-size: 30px;
+}
